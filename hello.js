@@ -1,3 +1,4 @@
-alert("Alllo");
-alert("bonjour");
+var message = "hello";
+alert(message);
+var aaa ="aaa";
 
